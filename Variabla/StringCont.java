@@ -1,3 +1,4 @@
+package Variabla;
 public class StringCont {
     public static void main(String[] args){
     int animals = 12;

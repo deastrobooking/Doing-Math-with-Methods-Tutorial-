@@ -1,3 +1,4 @@
+package Variabla;
 public class GreaterLessThan {
 	public static void main(String[] args) {   
 		double creditsEarned = 176.5;

@@ -1,3 +1,5 @@
+package Variabla;
+
 public class Comparisonmethod {
     public static void main(String[] args){
     String line1 = "Nah nah nah nah nah nah nah nah nah yeah";

@@ -1,3 +1,4 @@
+package Variabla;
 public class GreaterThanEqualTo {
     public static void main(String[] args){
     double recommendedWaterIntake = 8;
